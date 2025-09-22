@@ -26,4 +26,4 @@ def test_retrait2():
     resultat_obtenu = retrait(solde, montant)
 
     # Assert:vérifier le résultat
-    assert resultat_attendu == resultat_obtenu #re
+    assert resultat_attendu == resultat_obtenu #res
